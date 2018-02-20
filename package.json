@@ -1,0 +1,23 @@
+{
+  "name": "Bootstrap-Homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGarcia4224/Bootstrap-Homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGarcia4224/Bootstrap-Homework/issues"
+  },
+  "homepage": "https://github.com/JGarcia4224/Bootstrap-Homework#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
