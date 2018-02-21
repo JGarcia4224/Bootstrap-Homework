@@ -1,0 +1,44 @@
+#content{
+    text-align: center;
+}
+
+
+
+.jumbotron{
+    text-align: center;
+    margin-bottom: 0em;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.navbar{
+    justify-content: center;
+    background-color:#e9ecef;
+    padding-top:0px;
+    margin-bottom: 30px;
+    
+}
+
+
+#Section1{
+    padding-bottom: 200px;
+}
+
+.row-1,.row-2,.row-3{
+    text-align: center;
+
+}
+
+.sidecard{
+    word-wrap: break-word;
+}
+
+body { padding-top: 70px; }
+
+.navbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    top: 0;
+}
